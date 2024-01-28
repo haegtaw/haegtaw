@@ -13,14 +13,14 @@ Beginner C++ developer from Russia
 📫 Reach me by [email] (mailto: etozabavno@gmail.com)
 😄 Pronouns: Yolka
 
-<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="cpp" width="40" height="40"> &nbsp
-<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cpp/cpp-original.svg" title="cpp" width="40" height="40"> &nbsp
-<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" title="cpp" width="40" height="40"> &nbsp
-<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="cpp" width="40" height="40"> &nbsp
-<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" title="cpp" width="40" height="40"> &nbsp         
-<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" title="cpp" width="40" height="40"> &nbsp          
-<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="cpp" width="40" height="40"> &nbsp  
-<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="cpp" width="40" height="40"> &nbsp  
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="cpp" width="40" height="40">&nbsp
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cpp/cpp-original.svg" title="cpp" width="40" height="40">&nbsp
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" title="cpp" width="40" height="40">&nbsp
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="cpp" width="40" height="40">&nbsp
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" title="cpp" width="40" height="40">&nbsp         
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" title="cpp" width="40" height="40">&nbsp          
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="cpp" width="40" height="40">&nbsp  
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="cpp" width="40" height="40">&nbsp  
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats? username=haegtaw&theme=github_bear)
 
