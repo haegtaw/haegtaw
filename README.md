@@ -1,4 +1,7 @@
-### Hi there, I'm Elena
+<body>
+  <h1 align="center">Hi there, I'm Elena</h1>
+  <p align="center">
+
 Beginner C++ developer from Russia
 
 <a href="https://ru.linkedin.com/in/elena-sudarikova-0a282280"> <img src ="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -14,25 +17,27 @@ Beginner C++ developer from Russia
 😄 Pronouns: Yolka
 
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" 
-  title="cpp" width="40" height="40"/>&nbsp;
+  title="cpp" width="40" height="40"/>
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cpp/cpp-original.svg" 
-  title="cpp" width="40" height="40"/>&nbsp;
+  title="cpp" width="40" height="40"/>
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" 
-  title="cpp" width="40" height="40"/>&nbsp;
+  title="cpp" width="40" height="40"/>
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
-  title="cpp" width="40" height="40"/>&nbsp;
+  title="cpp" width="40" height="40"/>
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" 
-  title="cpp" width="40" height="40"/>&nbsp ;        
+  title="cpp" width="40" height="40"/>      
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" 
-  title="cpp" width="40" height="40"/>&nbsp  ;        
+  title="cpp" width="40" height="40"/>       
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" 
-  title="cpp" width="40" height="40"/>&nbsp  ;
+  title="cpp" width="40" height="40"/>
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
-  title="cpp" width="40" height="40"/>&nbsp  ;
+  title="cpp" width="40" height="40"/>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats? username=haegtaw&theme=github_bear)
+<div id="stat" align="center"> ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?
+  username=haegtaw&theme=github_bear) </div>
 
-
+ </p>
+</body>
 
 
 <!--
