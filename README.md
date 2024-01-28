@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm ELena
+Beginner C++ developer from Russia
+
+<a href="https://ru.linkedin.com/in/elena-sudarikova-0a282280"> <img src ="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://ru.leetcode.com/etozabavno"> <img src ="https://img.shields.io/badge/Leetcode-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
 
 <!--
 **haegtaw/haegtaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
