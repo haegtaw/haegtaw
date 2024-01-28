@@ -1,4 +1,4 @@
-### Hi there, I'm ELena
+### Hi there, I'm Elena
 Beginner C++ developer from Russia
 
 <a href="https://ru.linkedin.com/in/elena-sudarikova-0a282280"> <img src ="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -9,7 +9,7 @@ Beginner C++ developer from Russia
 
 🌱 I’m currently learning C++ and Qt
 💻 Working my skills in [School 21] (https://21-school.ru/)
-⚡ In my free time, I read tech articles
+⚡ In my free time, I read books about OOP
 📫 Reach me by [email] (mailto: etozabavno@gmail.com)
 😄 Pronouns: Yolka
 
