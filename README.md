@@ -1,6 +1,6 @@
 <div id="header" align="center">
           <h1>Hi there, I'm Elena </h1>
-          <h3> Beginner C++ developer from Russia</h1>
+          <h3> DevOps with C, C++ and Go skills</h1>
 <div />
 
 
@@ -13,9 +13,9 @@
 
 ### About me
 - 🏆 I have graduated (with honors) from the Biology Faculty of Moscow State University
-- 🌱 I’m currently learning C++ and Qt
-- 💻 Working my skills in [School 21] (https://21-school.ru/)
-- ⚡ In my free time, I read books about OOP
+- 🌱 I’m currently working with cute infrastructure
+- 💻 During my year of study at [School 21] (https://21-school.ru/) (Russian franchise of school 42) I wrote 40 projects in C, C++ and Golang
+- ⚡ In my free time, I read books about memory allocation and languages feature (JWM is a curse)))
 - 📫 Reach me by [email] (mailto: etozabavno@gmail.com)
 - 😄 Pronouns: Yolka
 
