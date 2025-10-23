@@ -16,7 +16,7 @@
 - 🌱 I’m currently working with cute infrastructure
 - 💻 During my year of study at [School 21](https://21-school.ru/) (Russian franchise of school 42) I wrote 40 projects in C, C++ and Golang
 - ⚡ In my free time, I read books about memory allocation and languages feature (JWM is a curse)))
-- 📫 Reach me by [email](mailto: etozabavno@gmail.com)
+- 📫 Reach me by [email](etozabavno@gmail.com)
 - 😄 Pronouns: Yolka
 
 ---
